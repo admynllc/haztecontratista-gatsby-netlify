@@ -11,6 +11,7 @@ mainpitch:
     Ahora es el momento perfecto para empezar tu propia empresa de contratista.  
     Sobra trabajo y falta quién lo haga."
 description: "
+  Gana $50 por hora ó más con tu propia empresa.
   Nosotros te ayudamos con todo:
   Te registramos tu empresa.
   Te tramitamos tus licencias.

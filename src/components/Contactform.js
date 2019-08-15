@@ -43,10 +43,9 @@ const Contactform = class extends React.Component {
                 Llena tus datos en la siguiente forma para empezar el proceso
               </h3>
               <form
-                name="contact"
-                method="post"
-                action="/contact/thanks/"
-                data-netlify-recaptcha="true"
+                name="haztecontratista-contact"
+                method="POST"
+                action="/contact/gracias/"
                 data-netlify="true"
                 data-netlify-honeypot="bot-field"
                 onSubmit={this.handleSubmit}
@@ -129,7 +128,7 @@ const Contactform = class extends React.Component {
                       name={"message"}
                       onChange={this.handleChange}
                       id={"message"}
-                      required={true}
+                      required={false}
                     />
                   </div>
                 </div>

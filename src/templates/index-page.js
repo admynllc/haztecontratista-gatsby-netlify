@@ -4,7 +4,7 @@ import { Link, graphql } from "gatsby";
 
 import Layout from "../components/Layout";
 import Features from "../components/Features";
-import BlogRoll from "../components/BlogRoll";
+// import BlogRoll from "../components/BlogRoll";
 import Contactform from "../components/Contactform";
 
 export const IndexPageTemplate = ({
@@ -62,6 +62,8 @@ export const IndexPageTemplate = ({
           }}
         >
           {subheading}
+          <br />
+          Gana $50 por hora ó más con tu propia empresa.
         </h3>
       </div>
     </div>
