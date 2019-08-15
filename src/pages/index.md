@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Empieza a ganar más DINERO $$$ ¡Hazte Contratista Independiente HOY!
 image: /img/splash.png
-heading: Great coffee with a conscience
+heading: Empieza tu negocio de contratista hoy. Si lo puedes lograr.
 subheading: ¡Es hora que te paguen lo que vale tu trabajo!
 mainpitch:
   title: >-
@@ -10,32 +10,26 @@ mainpitch:
     ganar mas dinero por tu trabajo?
   description: >
     Ahora es el perfecto momento para empezar tu propia empresa de contratista. 
-    Sobra trabajo y falta quien lo haga. Has visto los anuncios en el internet y
-    la television pidiendo que apliques para ser empleado. Te cuentan que pagan
-    bien y hay beneficios. La verdad es que eso puro rolly porque solo es para
-    cierto tipo de gente. Nosotros te ayudamos con todo. Te registramos tu
-    empresa. Te tramitamos tus licencias de contratista. Te ponemos en orden con
-    los requerimientos legales. Hasta te conseguimos clientes.
+    Sobra trabajo y falta quien lo haga. 
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Nosotros te ayudamos con todo. Te registramos tu empresa. Te tramitamos tus
+  licencias de contratista. Te ponemos en orden con los requerimientos legales.
+  Hasta te conseguimos clientes.
 intro:
   blurbs:
-    - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+    - image: /img/mentira.jpg
+      text: >-
+        Has visto los anuncios en el internet y la television pidiendo que
+        apliques para ser empleado. Te cuentan que pagan bien y hay beneficios.
+        La verdad es que eso puro rollo porque solo es para cierto tipo de
+        gente. La verdad es que si te pones a trabajar por tu propia cuenta, te
+        puede ir mucho mejor. 
     - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+      text: >-
+        Al arrancar tu propio negocio de contratista, puedes ganar por lo menos
+        $50 por hora, el doble de lo que pagan esos trabajos de empleado. Cuando
+        trabajas por tu propia cuenta, la fruta de tu trabajo es tuya, no de tu
+        jefe. Gana buen dinero sin tener jefe.
     - image: /img/tutorials.png
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
@@ -50,12 +44,8 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  heading: Test
+  description: test
 main:
   heading: Great coffee with no compromises
   description: >
