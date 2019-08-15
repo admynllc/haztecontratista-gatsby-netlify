@@ -1,6 +1,5 @@
 import React from "react";
 import { navigate } from "gatsby-link";
-import Layout from "../../components/Layout";
 
 function encode(data) {
   return Object.keys(data)
@@ -8,7 +7,7 @@ function encode(data) {
     .join("&");
 }
 
-export default class Index extends React.Component {
+const Contactform = class extends React.Component {
   constructor(props) {
     super(props);
     this.state = { isValidated: false };
@@ -29,7 +28,7 @@ export default class Index extends React.Component {
         ...this.state
       })
     })
-      .then(() => this.props.navigation.navigate(form.getAttribute("action")))
+      .then(() => navigate(form.getAttribute("action")))
       .catch(error => alert(error));
   };
 
@@ -39,11 +38,15 @@ export default class Index extends React.Component {
         <section className="section">
           <div className="container">
             <div className="content">
-              <h1>Contact</h1>
+              <h1>Contáctanos hoy y cambia tu vida</h1>
+              <h3>
+                Llena tus datos en la siguiente forma para empezar el proceso
+              </h3>
               <form
                 name="contact"
                 method="post"
                 action="/contact/thanks/"
+                data-netlify-recaptcha="true"
                 data-netlify="true"
                 data-netlify-honeypot="bot-field"
                 onSubmit={this.handleSubmit}
@@ -58,7 +61,7 @@ export default class Index extends React.Component {
                 </div>
                 <div className="field">
                   <label className="label" htmlFor={"name"}>
-                    Your name
+                    Tu Nombre
                   </label>
                   <div className="control">
                     <input
@@ -87,8 +90,38 @@ export default class Index extends React.Component {
                   </div>
                 </div>
                 <div className="field">
+                  <label className="label" htmlFor={"phone"}>
+                    Teléfono
+                  </label>
+                  <div className="control">
+                    <input
+                      className="input"
+                      type={"phone"}
+                      name={"phone"}
+                      onChange={this.handleChange}
+                      id={"phone"}
+                      required={true}
+                    />
+                  </div>
+                </div>
+                <div className="field">
+                  <label className="label" htmlFor={"specialty"}>
+                    Especialidad
+                  </label>
+                  <div className="control">
+                    <input
+                      className="input"
+                      type={"specialty"}
+                      name={"specialty"}
+                      onChange={this.handleChange}
+                      id={"specialty"}
+                      required={true}
+                    />
+                  </div>
+                </div>
+                <div className="field">
                   <label className="label" htmlFor={"message"}>
-                    Message
+                    Mensaje
                   </label>
                   <div className="control">
                     <textarea
@@ -102,7 +135,7 @@ export default class Index extends React.Component {
                 </div>
                 <div className="field">
                   <button className="button is-link" type="submit">
-                    Send
+                    Mandar
                   </button>
                 </div>
               </form>
@@ -112,4 +145,6 @@ export default class Index extends React.Component {
       </div>
     );
   }
-}
+};
+
+export default Contactform;
