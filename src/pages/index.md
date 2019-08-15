@@ -1,16 +1,18 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
+title: Empieza a ganar más DINERO $$$ ¡Hazte Contratista Independiente HOY!
+image: /img/splash.png
 heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+subheading: ¡Es hora que te paguen lo que vale tu trabajo!
 mainpitch:
-  title: Why Kaldi
+  title: >-
+    ¿Trabajas de contratista pero eres empleado de alguien? ¿Estas listo para
+    ganar mas dinero por tu trabajo?
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Ahora es el perfecto momento para empezar tu propia empresa de contratista. 
+    Nosotros te ayudamos con todo. Te registramos tu empresa, te tramitamos tus
+    licencias de contratista. Te ponemos en orden con los requerimientos
+    legales. Hasta te conseguimos clientes.
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
@@ -68,3 +70,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
