@@ -10,9 +10,12 @@ mainpitch:
     ganar mas dinero por tu trabajo?
   description: >
     Ahora es el perfecto momento para empezar tu propia empresa de contratista. 
-    Nosotros te ayudamos con todo. Te registramos tu empresa, te tramitamos tus
-    licencias de contratista. Te ponemos en orden con los requerimientos
-    legales. Hasta te conseguimos clientes.
+    Sobra trabajo y falta quien lo haga. Has visto los anuncios en el internet y
+    la television pidiendo que apliques para ser empleado. Te cuentan que pagan
+    bien y hay beneficios. La verdad es que eso puro rolly porque solo es para
+    cierto tipo de gente. Nosotros te ayudamos con todo. Te registramos tu
+    empresa. Te tramitamos tus licencias de contratista. Te ponemos en orden con
+    los requerimientos legales. Hasta te conseguimos clientes.
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
