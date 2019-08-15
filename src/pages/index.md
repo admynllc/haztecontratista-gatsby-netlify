@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: "Hazte Contratista Independiente"
-image: /img/splash.png
+image: /img/splash-c.png
 heading: "Sí lo puedes lograr. Es más fácil de lo que crees."
 subheading: "Empieza tu propio negocio de contratista y gana más $$$ DINERO $$$"
 mainpitch:
