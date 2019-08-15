@@ -63,7 +63,9 @@ export const IndexPageTemplate = ({
         >
           {subheading}
           <br />
-          Gana $50 por hora ó más con tu propia empresa.
+          <strong>
+            Gana <i>$50 por hora ó más</i> con tu propia empresa.
+          </strong>
         </h3>
       </div>
     </div>

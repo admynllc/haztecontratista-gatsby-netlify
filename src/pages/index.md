@@ -19,15 +19,15 @@ description: "
   Hasta te conseguimos clientes."
 intro:
   blurbs:
+    - image: /img/cash.jpg
+      text: >
+        Al arrancar tu propio negocio de contratista, puedes ganar por lo menos $50 por hora, el doble de lo que pagan los trabajos de empleado.
+        Cuando trabajas por tu propia cuenta, la fruta de tu trabajo es tuya, no de tu jefe. Gana buen dinero sin tener jefe.
     - image: /img/mentira.jpg
       text: >
         Has visto los anuncios en el internet y la televisión pidiendo que apliques para ser empleado.
         Te cuentan que pagan bien y hay beneficios. La verdad es que eso puro rollo porque solo es para cierto tipo de gente.
         Si te pones a trabajar por tu propia cuenta, te puede ir MUCHO mejor.
-    - image: /img/cash.jpg
-      text: >
-        Al arrancar tu propio negocio de contratista, puedes ganar por lo menos $50 por hora, el doble de lo que pagan los trabajos de empleado.
-        Cuando trabajas por tu propia cuenta, la fruta de tu trabajo es tuya, no de tu jefe. Gana buen dinero sin tener jefe.
     - image: /img/documentos.jpg
       text: >
         Sabemos que muchas veces existen problemas de papeles. Debido a esto, todo se complica.
